@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
-
+//By: Emilio, 2024-02-08
+//Finished around 7:15
+//Started around 7:05
 int main() {
   int wins = 0;
   for(int i = 0; i < 6; i++){
