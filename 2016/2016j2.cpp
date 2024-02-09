@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
-
+//By: Emilio, 2024-02-08
+//Finished 7:51
+//Started around 7:15
 int main() {
   int square[4][4];
   int sum = 0;
