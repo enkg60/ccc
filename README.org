@@ -1,5 +1,5 @@
 # Created 2024-02-19 Mon 16:34
-#+title: 
+#+title: CCC PRACTICE
 #+author: enkg
 * CCC Practice
 CCC Practice in C++ and some C#. Explanations included.
