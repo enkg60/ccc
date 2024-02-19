@@ -1,8 +1,6 @@
-# Created 2024-02-19 Mon 16:29
+# Created 2024-02-19 Mon 16:34
 #+title: 
 #+author: enkg
-#+export_file_name: ../README.org
-#+toc: true
 * CCC Practice
 CCC Practice in C++ and some C#. Explanations included.
 * Table of Contents
@@ -28,3 +26,6 @@ I use two 2D vectors, one to keep track of the time when I receive a message (Tr
 Using a for loop through every input, if the input indicates I received a message, I log it in the "Tracking" vector with the time.  If the input indicates I waited a certain amount of time, I add that amount of waiting to the "Time" variable. The "Time" variable gets added onto every iteration of the for loop. Next, whenever I send out a message, I grab the initial time I received it from the "Tracking" vector, and then subtract the current time for the initial time. Finally, add that onto the "Out" vector everytime I send a message, and print the "Out" vector at the end.
 * TODOS
 - Move all explanation of code from comments to org files
+
+#+export_file_name: ../README.org
+#+toc: true

@@ -1,6 +1,3 @@
-#+author: enkg
-#+EXPORT_FIle_NAME: ../README.org
-#+toc: true
 * CCC Practice
 :PROPERTIES:
 :CUSTOM_ID: ccc-practice
@@ -41,7 +38,9 @@ CCC Practice in C++ and some C#. Explanations included.
 :END:
 - Move all explanation of code from comments to org files
 
-
+#+author: enkg
+#+EXPORT_FIle_NAME: ../README.org
+#+toc: true
 
 # Local Variables:
 # org-make-toc-insert-custom-ids: true
