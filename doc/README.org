@@ -2,23 +2,43 @@
 #+EXPORT_FIle_NAME: ../README.org
 #+toc: true
 * CCC Practice
+:PROPERTIES:
+:CUSTOM_ID: ccc-practice
+:END:
 CCC Practice in C++ and some C#. Explanations included.
 
 * Table of Contents
 :PROPERTIES:
 :TOC:      :include all
+:CUSTOM_ID: table-of-contents
 :END:
 
 :CONTENTS:
-- [[#heading][Heading]]
-  - [[#subheading][Subheading]]
+- [[#ccc-practice][CCC Practice]]
+- [[#table-of-contents][Table of Contents]]
+- [[#explantions][Explantions]]
+  - [[#2015][2015]]
+    - [[#2015-j4][2015 j4]]
+- [[#todos][TODOS]]
 :END:
 
 * Explantions
+:PROPERTIES:
+:CUSTOM_ID: explantions
+:END:
 ** 2015
+:PROPERTIES:
+:CUSTOM_ID: 2015
+:END:
 *** 2015 j4
+:PROPERTIES:
+:CUSTOM_ID: 2015-j4
+:END:
 #+INCLUDE: "../2015/2015j4.org"
-* TODO:
+* TODOS
+:PROPERTIES:
+:CUSTOM_ID: todos
+:END:
 - Move all explanation of code from comments to org files
 
 
