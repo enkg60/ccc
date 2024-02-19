@@ -1,4 +1,4 @@
-* CCC Practice
+#+TITLE:CCC Practice
 :PROPERTIES:
 :CUSTOM_ID: ccc-practice
 :END:
@@ -11,7 +11,6 @@ CCC Practice in C++ and some C#. Explanations included.
 :END:
 
 :CONTENTS:
-- [[#ccc-practice][CCC Practice]]
 - [[#table-of-contents][Table of Contents]]
 - [[#explantions][Explantions]]
   - [[#2015][2015]]
@@ -44,4 +43,5 @@ CCC Practice in C++ and some C#. Explanations included.
 
 # Local Variables:
 # org-make-toc-insert-custom-ids: true
+# before-save-hook: org-make-toc
 # End:
