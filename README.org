@@ -1,0 +1,4 @@
+
+* CCC Practice
+CCC Practice in C++ and some CSS. Explanations included.
+* TODO Move all explanation of code from comments to org files
