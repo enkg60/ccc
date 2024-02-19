@@ -18,7 +18,7 @@ CCC Practice in C++ and some C#. Explanations included.
 - [[#table-of-contents][Table of Contents]]
 - [[#explantions][Explantions]]
   - [[#2015][2015]]
-    - [[#2015-j4][2015 j4]]
+    - [[#2015-j4][2015 J4]]
 - [[#todos][TODOS]]
 :END:
 
@@ -30,7 +30,7 @@ CCC Practice in C++ and some C#. Explanations included.
 :PROPERTIES:
 :CUSTOM_ID: 2015
 :END:
-*** 2015 j4
+*** 2015 J4
 :PROPERTIES:
 :CUSTOM_ID: 2015-j4
 :END:

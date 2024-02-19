@@ -1,4 +1,4 @@
-# Created 2024-02-19 Mon 16:27
+# Created 2024-02-19 Mon 16:29
 #+title: 
 #+author: enkg
 #+export_file_name: ../README.org
@@ -11,12 +11,12 @@ CCC Practice in C++ and some C#. Explanations included.
 - [[#table-of-contents][Table of Contents]]
 - [[#explantions][Explantions]]
   - [[#2015][2015]]
-    - [[#2015-j4][2015 j4]]
+    - [[#2015-j4][2015 J4]]
 - [[#todos][TODOS]]
 :END:
 * Explantions
 ** 2015
-*** 2015 j4
+*** 2015 J4
 **** Information
 Started: About 1 week ago on Friday.
 Finished: 2-19-2024 3:25PM
