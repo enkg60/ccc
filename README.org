@@ -1,7 +1,17 @@
-
-* CCC Practice
+# Created 2024-02-19 Mon 16:03
+#+title: 
+#+author: enkg
+#+export_file_name: ../README.org
+* Ccc Practice
 CCC Practice in C++ and some C#. Explanations included.
+** Information
+Started: About 1 week ago on Friday.
+Finished: 2-19-2024 3:25PM
+** Notes
+This code took way longer to write than it should have. I was writing it completely wrong by keeping track of who was on hold with a stack and a whole lot of mumbo jumbo that I don't remember. I'm going to put that to the fact that I was tired, but maybe I need to get better at understanding these problems. Today I finally realised how to write it.
 
-#+INCLUDE: "~/2015/2015j4.org"
+I use two 2D vectors, one to keep track of the time when I receive a message (Tracking), and another to total up wait times for every id (Out).
+
+Using a for loop through every input, if the input indicates I received a message, I log it in the "Tracking" vector with the time.  If the input indicates I waited a certain amount of time, I add that amount of waiting to the "Time" variable. The "Time" variable gets added onto every iteration of the for loop. Next, whenever I send out a message, I grab the initial time I received it from the "Tracking" vector, and then subtract the current time for the initial time. Finally, add that onto the "Out" vector everytime I send a message, and print the "Out" vector at the end.
 * TODO:
 - Move all explanation of code from comments to org files

@@ -1,0 +1,7 @@
+#+author: enkg
+#+EXPORT_FIle_NAME: ../README.org
+* Ccc Practice
+CCC Practice in C++ and some C#. Explanations included.
+#+INCLUDE: "../2015/2015j4.org"
+* TODO:
+- Move all explanation of code from comments to org files
