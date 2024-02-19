@@ -1,13 +1,17 @@
-# Created 2024-02-19 Mon 16:03
+# Created 2024-02-19 Mon 16:06
 #+title: 
 #+author: enkg
 #+export_file_name: ../README.org
-* Ccc Practice
+#+toc: true
+* CCC Practice
 CCC Practice in C++ and some C#. Explanations included.
-** Information
+* Explantions
+** 2015
+*** 2015 j4
+**** Information
 Started: About 1 week ago on Friday.
 Finished: 2-19-2024 3:25PM
-** Notes
+**** Notes
 This code took way longer to write than it should have. I was writing it completely wrong by keeping track of who was on hold with a stack and a whole lot of mumbo jumbo that I don't remember. I'm going to put that to the fact that I was tired, but maybe I need to get better at understanding these problems. Today I finally realised how to write it.
 
 I use two 2D vectors, one to keep track of the time when I receive a message (Tracking), and another to total up wait times for every id (Out).
