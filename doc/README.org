@@ -4,9 +4,25 @@
 * CCC Practice
 CCC Practice in C++ and some C#. Explanations included.
 
+* Table of Contents
+:PROPERTIES:
+:TOC:      :include all
+:END:
+
+:CONTENTS:
+- [[#heading][Heading]]
+  - [[#subheading][Subheading]]
+:END:
+
 * Explantions
 ** 2015
 *** 2015 j4
 #+INCLUDE: "../2015/2015j4.org"
 * TODO:
 - Move all explanation of code from comments to org files
+
+
+
+# Local Variables:
+# org-make-toc-insert-custom-ids: true
+# End:
