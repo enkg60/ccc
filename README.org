@@ -1,4 +1,7 @@
 
 * CCC Practice
-CCC Practice in C++ and some CSS. Explanations included.
-* TODO Move all explanation of code from comments to org files
+CCC Practice in C++ and some C#. Explanations included.
+
+#+INCLUDE: "~/2015/2015j4.org"
+* TODO:
+- Move all explanation of code from comments to org files
