@@ -1,0 +1,2 @@
+* Information
+This folder is for the question I did in the code ninjas held coding competition on Feb 21
