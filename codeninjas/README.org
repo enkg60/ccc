@@ -1,2 +1,9 @@
 * Information
-This folder is for the question I did in the code ninjas held coding competition on Feb 21
+This folder is for the questions I did in the code ninjas held coding competition on Feb 21
+All of these questions were done between 6:00 pm and 8:00 pm.
+(I was sick while writing the code)
+
+* Format of competition
+5 Questions
+
+(NEED TO UPLOAD THE QUESTIONS FROM PAPER)
